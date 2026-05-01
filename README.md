@@ -26,7 +26,7 @@ This is the fastest and most reliable method. It downloads the `fix.sh` script, 
 Run the following command in your Termux terminal:
 
 ```bash
-curl -sO https://raw.githubusercontent.com/msrofficial/fix-termux-root/main/fix.sh && chmod +x fix.sh && ./fix.sh
+curl -sO https://raw.githubusercontent.com/kafi5/fix-termux-root/main/fix.sh && chmod +x fix.sh && ./fix.sh
 ```
 
 ---
@@ -71,9 +71,8 @@ SU_BINARY_SEARCH=("/system/xbin/su" "/system/bin/su" "/debug_ramdisk/su")
 ---
 
 ## Author & Connect
-Developed and maintained by **MSR Sakibur**. Feel free to connect for updates or support:
+Developed and maintained by **RH KAFI**. Feel free to connect for updates or support:
 
-* **GitHub:** [msrofficial](https://github.com/msrofficial)
-* **Facebook:** [sakibur.msr](https://www.facebook.com/sakibur.msr)
-* **Telegram:** [@msr0official](https://t.me/msr0official)
-* **Telegram Channel:** [@msrpatch](https://t.me/msrpatch)
+* **GitHub:** [msrofficial](https://github.com/kafi5)
+* **Telegram:** [@rhktech1m](https://t.me/rhktech1m)
+* **Telegram Channel:** [@duomodhub](https://t.me/duomodhub)
