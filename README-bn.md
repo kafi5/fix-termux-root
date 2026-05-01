@@ -26,7 +26,7 @@
 আপনার Termux টার্মিনালে নিচের কমান্ডটি রান করুন:
 
 ```bash
-curl -sO [https://raw.githubusercontent.com/msrofficial/fix-termux-root/main/fix.sh](https://raw.githubusercontent.com/msrofficial/fix-termux-root/main/fix.sh) && chmod +x fix.sh && ./fix.sh
+curl -sO [https://raw.githubusercontent.com/kafi5/fix-termux-root/main/fix.sh](https://raw.githubusercontent.com/kafi5/fix-termux-root/main/fix.sh) && chmod +x fix.sh && ./fix.sh
 ```
 
 ---
@@ -71,9 +71,8 @@ SU_BINARY_SEARCH=("/system/xbin/su" "/system/bin/su" "/debug_ramdisk/su")
 ---
 
 ## তৈরি এবং রক্ষণাবেক্ষণে
-ডেভেলপ এবং মেইনটেইন করেছেন **MSR Sakibur**। যেকোনো আপডেট বা সাপোর্টের জন্য যোগাযোগ করতে পারেন:
+ডেভেলপ এবং মেইনটেইন করেছেন **RHK {kafi}**। যেকোনো আপডেট বা সাপোর্টের জন্য যোগাযোগ করতে পারেন:
 
-* **GitHub:** [msrofficial](https://github.com/msrofficial)
-* **Facebook:** [sakibur.msr](https://www.facebook.com/sakibur.msr)
-* **Telegram:** [@msr0official](https://t.me/msr0official)
-* **Telegram Channel:** [@msrpatch](https://t.me/msrpatch)
+* **GitHub:** [kafi5](https://github.com/kafi5)
+* **Telegram:** [@rhktech1m](https://t.me/rhktech1m)
+* **Telegram Channel:** [@duomodhub](https://t.me/duomodhub)
